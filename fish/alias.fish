@@ -1,0 +1,5 @@
+alias ls='exa --icons'
+alias la='exa --icons --long'
+alias cat='bat'
+alias hm='cd /Users/icy/Desktop/My\ Stuff/Gits/'
+alias cd='z'
