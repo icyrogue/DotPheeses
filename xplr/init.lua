@@ -273,7 +273,7 @@ xplr.config.general.focus_ui.suffix = "]"
 
 -- Style for focused item.
 -- Type: [Style](https://xplr.dev/en/style)
-xplr.config.general.focus_ui.style = { fg = "Red", bg = "White", add_modifiers = { "Bold" } }
+xplr.config.general.focus_ui.style = { add_modifiers = { "Bold" } }
 
 -- The string placed before the item name for a selected row.
 --

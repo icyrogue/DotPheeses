@@ -1,0 +1,39 @@
+theme = "oxocarbon"
+
+[editor]
+line-number = "relative"
+cursorline = true
+mouse = false
+completion-trigger-len = 1
+color-modes = true
+
+[editor.lsp]
+display-signature-help-docs = false
+
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.whitespace.render]
+space = "all"
+nbsp = "all"
+tab = "none"
+newline = "none"
+
+[editor.whitespace.characters]
+space = "·"
+nbsp = "⍽"
+tab = "→"
+newline = "⏎"
+tabpad = "→" # Tabs will look like "→···" (depending on tab width)
+
+
+[editor.indent-guides]
+render = true
+character = "→" # Some characters that work well: "▏", "┆", "┊", "⸽"
+skip-levels = 0
+
+# [keys.normal]
+# "space-space" = "open_filepicker"

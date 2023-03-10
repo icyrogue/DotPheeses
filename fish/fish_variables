@@ -43,4 +43,4 @@ SETUVAR fish_pager_color_selected_background:\x2d\x2dbackground\x3dbrblack
 SETUVAR fish_pager_color_selected_completion:\x1d
 SETUVAR fish_pager_color_selected_description:\x1d
 SETUVAR fish_pager_color_selected_prefix:\x1d
-SETUVAR fish_user_paths:/Users/icy/\x2econfig/nvim/bin\x1e/Users/icy/\x2epub\x2dcache/bin\x1e/usr/local/opt/llvm/bin\x1e/Users/icy/ols
+SETUVAR fish_user_paths:/Users/icy/Desktop/MyStuff/Gits/go\x2dlottie/target\x1e/Users/icy/\x2ecargo/bin\x1e/Users/icy/\x2edeno/bin\x1e/opt/local/bin\x1e/Users/icy/Library/Python/3\x2e10/lib/python/site\x2dpackages\x1e/Users/icy/\x2econfig/nvim/bin\x1e/Users/icy/\x2epub\x2dcache/bin\x1e/usr/local/opt/llvm/bin\x1e/Users/icy/ols
